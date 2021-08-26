@@ -36,7 +36,3 @@
 * Model Arima
 * Model Holt Winters
 * Model Hybrid Forecasting
-
-**5. Accuracy and Confidence Intervals** 
-
-**6. Predictions**
